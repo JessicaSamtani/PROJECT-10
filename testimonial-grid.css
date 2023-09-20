@@ -137,12 +137,14 @@ img {
     .first-testimonial-purple {
         width: 300px;
         order: 1;
+        margin-top: 90px;
     }
     .second-testimonial-darkgrey {
         order: 2;
     }
     .third-testimonial {
         order: 5;
+        margin-bottom: 40px;
     }
     .fourth-testimonial {
         order: 3;
